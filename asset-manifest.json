@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ContactList/static/css/main.c4c42688.css",
+    "main.js": "/ContactList/static/js/main.c8860657.js",
+    "static/media/userimg.png": "/ContactList/static/media/userimg.d46fd733edcb56798405.png",
+    "index.html": "/ContactList/index.html",
+    "main.c4c42688.css.map": "/ContactList/static/css/main.c4c42688.css.map",
+    "main.c8860657.js.map": "/ContactList/static/js/main.c8860657.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c42688.css",
+    "static/js/main.c8860657.js"
+  ]
+}
